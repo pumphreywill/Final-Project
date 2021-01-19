@@ -1,1 +1,1 @@
-Link to the presentation of the final project. The project was an app used to predict song and artist genre based on 12 aspects of the Spotify API. Technologies used: Python-clustering and analyis; HTML, JAvaScript, and CSS- Web/app design; Tableau- Visualizations.
+Link to the presentation of the final project. The project was an app used to predict song and artist genre based on 12 aspects of the Spotify API. Technologies used: Python-clustering and analyis; HTML, JavaScript, and CSS- Web/app design; Tableau- Visualizations.
